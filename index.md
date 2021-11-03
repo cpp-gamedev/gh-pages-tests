@@ -1,1 +1,1 @@
-# GitHub Pages Tests
+# Github Pages Tests
